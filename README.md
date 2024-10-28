@@ -1,7 +1,7 @@
 
 ---
 
-# 👋 Hi, I’m Farzana Abdulzaa!
+# 👋 Hi, I’m Farzana Abdulzada!
 
 - 👀 I’m interested in climate change, sustainability, and innovative solutions that can drive positive environmental impact.  
 - 🌱 I’m currently learning about emerging technologies in environmental science and how they can be applied to real-world challenges.  
