@@ -3,9 +3,9 @@
 
 # 👋 Welcome to my GitHub! 🌍✨
 
-- 👀 Hi there! I’m Farzana (Astrotech), and I’m deeply passionate about the intersection of quantum computing, quantum physics, and machine learning in solving some of the world’s most pressing challenge—climate change and environmental sustainability. 
+- 👀 Hi there! I’m Farzana, and I’m deeply passionate about the intersection of quantum computing, quantum physics, and machine learning in the world’s most pressing challenge—climate change and environmental sustainability. 
 - 🌱 I’m currently learning about emerging technologies in environmental science and how they can be applied to real-world challenges.  
-- 💞️ If you’re passionate about quantum computing, machine learning, and creating sustainable solutions, feel free to check out my projects, contribute, or just connect..  
+- 💞️ Feel free to check out my projects, contribute, or just connect..  
 - 📫 How to reach me: You can connect with me through my [LinkedIn](https://www.linkedin.com/in/farzana-abdulzada-5382a7295/).
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I’m also a part of the BeyondQuantum program, taking my big steps toward learning more about quantum computing by working with international peers.
