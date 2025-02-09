@@ -8,7 +8,7 @@
 - 💞️ If you’re passionate about quantum computing, machine learning, and creating sustainable solutions, feel free to check out my projects, contribute, or just connect..  
 - 📫 How to reach me: You can connect with me through my [LinkedIn](https://www.linkedin.com/in/farzana-abdulzada-5382a7295/).
 - 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I developed Green Path and am currently working on GeoclimeX, already taking steps toward my goals since the age of 15! 
+- ⚡ Fun fact: I’m also a part of the BeyondQuantum program, taking my big steps toward learning more about quantum computing by working with international peers.
 
 Let’s work together to create a future where technology and sustainability thrive hand in hand. 🌿💡
 
