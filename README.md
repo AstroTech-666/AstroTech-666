@@ -23,6 +23,14 @@
 
 ---
 
+## 🚀 Technologies I Love  
+- 🧠 **Quantum Computing**: Shaping the next era of computation.
+- 🌍 **Machine Learning**: Building algorithms to solve global environmental challenges.
+- 💻 **Cloud Solutions**: Deploying **AI** solutions on scalable cloud infrastructure (AWS, Firebase).
+- 📊 **Data Science**: Analyzing data to derive insights for a more sustainable future.
+
+---
+
 ## 📌 Skills & Expertise  
 - 🔬 **Quantum Computing** | 🧠 **Machine Learning** | 🌍 **Environmental Science**
 - 🖥️ **Languages**: [Python](https://www.python.org/), [Dart](https://dart.dev/), [Flutter](https://flutter.dev/)  
