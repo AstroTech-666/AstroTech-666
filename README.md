@@ -5,12 +5,18 @@
 - 🌱 Currently exploring **emerging technologies** in **environmental science** and their applications in solving global challenges.
 - 💞️ Always open to collaborations, contributions, or just connecting with like-minded individuals.
 
-## 🌐 Reach Me  
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/farzana-abdulzada-5382a7295/).
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FARZANA%20ABDULZADA-blue)](https://www.linkedin.com/in/farzana-abdulzada-5382a7295/)
+
+---
 
 ## 🔥 Fun Facts  
 - ⚡ I'm part of the **BeyondQuantum** program, learning and collaborating with international peers to unlock the future of **quantum computing**.
 - 🌟 I believe **technology + sustainability** = a better future! 
+
+---
 
 ## 🌟 Pronouns  
 - **She/Her**
@@ -19,8 +25,16 @@
 
 ## 📌 Skills & Expertise  
 - 🔬 **Quantum Computing** | 🧠 **Machine Learning** | 🌍 **Environmental Science**
-- 🖥️ **Languages**: Python, Dart, Flutter  
-- 🔧 **Tools**: Firebase, AWS, TensorFlow, Jupyter
+- 🖥️ **Languages**: [Python](https://www.python.org/), [Dart](https://dart.dev/), [Flutter](https://flutter.dev/)  
+- 🔧 **Tools**: ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white), ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white), ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white), ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+---
 
 ## 🌈 Let's Build a Sustainable Future Together!  
 _"The future is quantum, and so is our planet’s potential."_ 🌿💡
+
+---
+
+## 🔗 Explore My Projects  
+- 📂 Check out my repositories and contribute to impactful projects that leverage **quantum computing** to address global challenges!
+
