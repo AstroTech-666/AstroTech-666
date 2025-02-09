@@ -12,5 +12,5 @@
 
 Let’s work together to create a future where technology and sustainability thrive hand in hand. 🌿💡
 
-Astrotech | 'The future is quantum, and so is our planet’s potential.'
+'The future is quantum, and so is our planet’s potential.'
 ---
