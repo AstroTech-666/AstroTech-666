@@ -1,7 +1,7 @@
 # 👋 Welcome to my GitHub! 🌍✨
 
 ## 🚀 About Me  
-- **👀 Passionate Innovator**: I'm Farzana, diving into the intersection of **quantum computing**, **quantum physics**, and **machine learning**, especially focusing on **climate change** and **environmental sustainability**.
+- **👀 Passionate Innovator**: I'm Farzana, I’m deeply passionate about the intersection of **quantum computing**, **quantum physics**, and **machine learning**, especially focusing on **climate change** and **environmental sustainability**.
 - 🌱 Currently exploring **emerging technologies** in **environmental science** and their applications in solving global challenges.
 - 💞️ Always open to collaborations, contributions, or just connecting with like-minded individuals.
 
