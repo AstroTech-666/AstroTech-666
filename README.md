@@ -44,5 +44,5 @@ _"The future is quantum, and so is our planet’s potential."_ 🌿💡
 ---
 
 ## 🔗 Explore My Projects  
-- 📂 Check out my repositories and contribute to impactful projects that leverage **quantum computing** to address global challenges!
+- 📂 Check out my repositories and contribute to impactful projects!
 
