@@ -37,12 +37,6 @@
 - 🔧 **Tools**: ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white), ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white), ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white), ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
-## 📈 GitHub Stats
-
-![AstroTech-666's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstroTech-666&show_icons=true&theme=radical)
-
-
----
 
 ## 🌈 Let's Build a Sustainable Future Together!  
 _"The future is quantum, and so is our planet’s potential."_ 🌿💡
