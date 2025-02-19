@@ -1,13 +1,8 @@
-Sure thing! Here's your GitHub bio with a space and astronomy twist:
-
----
-
 # 👋 Welcome to my GitHub! 🌌✨
 
 ## 🚀 About Me  
 - **👽 Cosmic Innovator**: I'm Farzana, deeply fascinated by the realms of **quantum computing**, **astrophysics**, and **machine learning**, with a special focus on the mysteries of space and the potential for **habitable exoplanets**.  
 - 🌠 Currently diving into **cutting-edge space technologies** and their applications in **astronomical research**.  
-- 💫 Always open to collaborations, contributions, or just chatting with fellow space enthusiasts.
 
 ---
 
