@@ -1,8 +1,10 @@
-# 👋 Welcome to my GitHub! 🌌✨
+---
+
+# 👋 Welcome to my GitHub! 🚀✨
 
 ## 🚀 About Me  
-- **👽 Cosmic Innovator**: I'm Farzana, deeply fascinated by the realms of **quantum computing**, **astrophysics**, and **machine learning**, with a special focus on the mysteries of space and the potential for **habitable exoplanets**.  
-- 🌠 Currently diving into **cutting-edge space technologies** and their applications in **astronomical research**.  
+- **👩‍💻 Tech Innovator**: I’m Farzana, a passionate developer with a love for **machine learning**, **deep learning**, **3D development**, and **game development**. I specialize in using technologies like **Unreal Engine** and **C++** to create immersive experiences and cutting-edge solutions.  
+- 💻 Currently diving deep into **AI-driven projects**, **3D simulations**, and **game development** with a focus on building real-world applications through innovative technologies.  
 
 ---
 
@@ -12,8 +14,7 @@
 ---
 
 ## 🔥 Fun Facts  
-- 🚀 I’m part of the **BeyondQuantum** program, unlocking the future of **quantum computing** with a global network of peers.  
-- 🌌 I believe **space exploration + technology** = unlocking the secrets of the universe!  
+- 🎮 I love using **Unreal Engine** for game development, building immersive worlds using **C++** and **Blueprints**.  
 
 ---
 
@@ -23,26 +24,29 @@
 ---
 
 ## 🚀 Technologies I Love  
-- 🧠 **Quantum Computing**: Exploring the frontier of space and time through quantum technologies.  
-- 🌍 **Machine Learning**: Crafting algorithms to study distant worlds and unravel the mysteries of the cosmos.  
-- 💻 **Cloud Solutions**: Deploying **AI** solutions to analyze space data on scalable cloud infrastructure (AWS, Firebase).  
-- 📊 **Data Science**: Analyzing data from space missions and astronomical surveys to push the boundaries of what we know about the universe.
+- 🧠 **Machine Learning & Deep Learning**: Crafting algorithms to make smarter systems and predicting the future with AI.  
+- 🎮 **3D Development**: Creating realistic simulations and games with **Unreal Engine**, powered by **C++** and **Blueprints**.  
+- 📊 **Data Science**: Analyzing datasets and training machine learning models to tackle problems like climate prediction and financial forecasting.  
+- 🔧 **AI & Automation**: Deploying **AI solutions** for real-world applications, from **flood prediction** to **stock market analysis**.
 
 ---
 
 ## 📌 Skills & Expertise  
-- 🔭 **Astrophysics** | 🧠 **Quantum Computing** | 🌠 **Machine Learning**  
-- 🖥️ **Languages**: [Python](https://www.python.org/), [Dart](https://dart.dev/), [Flutter](https://flutter.dev/)  
-- 🔧 **Tools**: ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white), ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white), ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white), ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+- 🧠 **Machine Learning** | 🎮 **Unreal Engine 3D Development** | 📊 **Deep Learning**  
+- 🖥️ **Languages**: [Python](https://www.python.org/), [C++](https://isocpp.org/), [Dart](https://dart.dev/)  
+- 🔧 **Tools**: ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white), ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white), ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)  
 
 ---
 
-## 🌌 Let’s Explore the Universe Together!  
-_"The stars are waiting, and so is our future."_ 🌠✨
+## 🎮 Let’s Build the Future Together!  
+_"Innovation begins where technology meets imagination."_ 💡🚀
 
 ---
 
 ## 🔗 Explore My Projects  
-- 📂 Dive into my repositories and let’s collaborate on projects that are out of this world!
+- 📂 Dive into my repositories and join me in building the next generation of **AI-driven applications**, **3D simulations**, and more!
 
 ---
+
+## Open for Opportunities
+[![Hireable](https://img.shields.io/badge/Hireable-yes-green)](https://github.com/prof.hireable)
