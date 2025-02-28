@@ -2,7 +2,7 @@
 # 👋 Welcome to my GitHub! 🚀✨
 
 ## 🚀 About Me  
-- **👩‍💻 Tech Innovator**: I’m Farzana, a passionate developer with a love for **machine learning**, **deep learning**, **3D development**, and **game development**. I specialize in using technologies like **Unreal Engine** and **C++** to create immersive experiences and cutting-edge solutions.  
+- 👩‍💻** Tech Innovator**: I’m Farzana, a passionate developer with a love for **machine learning**, **deep learning**, **3D development**, and **game development**. I specialize in using technologies like **Unreal Engine** and **C++** to create immersive experiences and cutting-edge solutions.  
 - 💻 Currently diving deep into **AI-driven projects**, **3D simulations**, and **game development** with a focus on building real-world applications through innovative technologies.  
 
 ---
