@@ -12,11 +12,6 @@
 
 ---
 
-## 🌟 Pronouns  
-- **She/Her**
-
----
-
 ## 🚀 Technologies I Love  
 - 🧠 **Machine Learning & Deep Learning**: Crafting algorithms to make smarter systems and predicting the future with AI.  
 - 🎮 **3D Development**: Creating realistic simulations and games with **Unreal Engine**, powered by **C++** and **Blueprints**.  
