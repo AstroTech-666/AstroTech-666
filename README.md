@@ -1,6 +1,6 @@
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AstroTech-666&theme=flat&title=Stars,Followers,Repositories,Commits" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AstroTech-666&theme=flat&title=Stars,Followers,Repositories,Commits"/>
 </p>
 
 
