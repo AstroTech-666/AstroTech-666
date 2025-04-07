@@ -1,41 +1,7 @@
----
-# 👋 Welcome to my GitHub! 🚀✨
+[![trophy](https://github-profile-trophy.vercel.app/?username=AstroTech-666&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🚀 About Me  
-- 👩‍💻 **Tech Innovator**: I’m a passionate developer with a love for **machine learning**, **deep learning**, **3D development**, and **game development**. I specialize in using technologies like **Unreal Engine** and **C++** to create immersive experiences and cutting-edge solutions.  
-- 💻 Currently diving deep into **AI-driven projects**, **3D simulations**, and **game development** with a focus on building real-world applications through innovative technologies.  
+![Farzana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstroTech-666&count_private=true&show_icons=true&theme=tokyonight)
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstroTech-666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔥 Fun Facts  
-- 🎮 I love using **Unreal Engine** for game development, building immersive worlds using **C++** and **Blueprints**.  
-
----
-
-## 🚀 Technologies I Love  
-- 🧠 **Machine Learning & Deep Learning**: Crafting algorithms to make smarter systems and predicting the future with AI.  
-- 🎮 **3D Development**: Creating realistic simulations and games with **Unreal Engine**, powered by **C++** and **Blueprints**.  
-- 📊 **Data Science**: Analyzing datasets and training machine learning models to tackle problems like climate prediction and financial forecasting.  
-- 🔧 **AI & Automation**: Deploying **AI solutions** for real-world applications, from **flood prediction** to **stock market analysis**.
-
----
-
-## 📌 Skills & Expertise  
-- 🧠 **Machine Learning** | 🎮 **Unreal Engine 3D Development** | 📊 **Deep Learning**  
-- 🖥️ **Languages**: [Python](https://www.python.org/), [C++](https://isocpp.org/), [Dart](https://dart.dev/)  
-- 🔧 **Tools**: ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white), ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white), ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)  
-
----
-
-## 🎮 Let’s Build the Future Together!  
-_"Innovation begins where technology meets imagination."_ 💡🚀
-
----
-
-## 🔗 Explore My Projects  
-- 📂 Dive into my repositories and join me in building the next generation of **AI-driven applications**, **3D simulations**, and more!
-
----
-
-## Open for Opportunities
-[![Hireable](https://img.shields.io/badge/Hireable-yes-green)](https://github.com/prof.hireable)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AstroTech-666&theme=dark)](https://git.io/streak-stats)
