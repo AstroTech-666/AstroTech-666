@@ -1,21 +1,34 @@
 ---
-
 ### 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=AstroTech-666&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AstroTech-666&theme=onedark" alt="GitHub Trophies"/>
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-![Farzana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstroTech-666&count_private=true&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AstroTech-666&count_private=true&show_icons=true&theme=tokyonight" alt="Farzana's GitHub stats"/>
+</p>
 
 ---
 
 ### 🔥 Streak Status
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AstroTech-666&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=AstroTech-666&theme=dark" alt="GitHub Streak"/>
+  </a>
+</p>
 
 ---
 
 ### 🧠 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstroTech-666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroTech-666&layout=compact" alt="Top Languages"/>
+  </a>
+</p>
 
 ---
