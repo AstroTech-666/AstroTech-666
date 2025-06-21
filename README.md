@@ -12,14 +12,10 @@
   </p>
 -->
 
----
-
-### 🔥 Streak Status
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=AstroTech-666&theme=dark" alt="GitHub Streak"/>
-  </a>
-</p>
+  📊 GitHub Stats
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AstroTech-666&count_private=true&show_icons=true&theme=tokyonight" alt="Farzana's GitHub stats"/>
+  </p>
 
 ---
 
