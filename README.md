@@ -11,12 +11,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=AstroTech-666&count_private=true&show_icons=true&theme=tokyonight" alt="Farzana's GitHub stats"/>
   </p>
 -->
-
-  📊 GitHub Stats
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AstroTech-666&count_private=true&show_icons=true&theme=tokyonight" alt="Farzana's GitHub stats"/>
-  </p>
-
 ---
 
 ### 🧠 Top Languages
